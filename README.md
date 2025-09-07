@@ -61,4 +61,4 @@ This project provides a clear view of sales trends across products, categories, 
 ## Links to Tableau Dashboard and superstore dataset: 
 https://public.tableau.com/shared/BFG2S94WR?:display_count=n&:origin=viz_share_link
 
-The dataset used in this project, "Superstore Sales," can be found on Kaggle: [Superstore Sales Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
+The dataset used in this project, "Superstore Sales," can be found on Kaggle: https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales
