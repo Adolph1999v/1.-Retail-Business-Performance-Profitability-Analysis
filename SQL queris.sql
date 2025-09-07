@@ -1,3 +1,5 @@
+-- The `transactions` table in this code represents the original Superstore Sales dataset.
+
 CREATE TABLE category_summary AS
 SELECT
     Category AS category,
