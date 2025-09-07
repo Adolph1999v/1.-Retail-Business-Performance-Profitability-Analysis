@@ -58,5 +58,7 @@ This dataset allows analysis of sales performance by **product, category, region
 ## Conclusion
 This project provides a clear view of sales trends across products, categories, and regions. By combining SQL, Python, and Tableau, it demonstrates a data-driven approach to identifying revenue drivers and regional patterns, enabling better decision-making for inventory, marketing, and business growth.
 
-## Tableau Dashboard link: 
+## Links to Tableau Dashboard and superstore dataset: 
 https://public.tableau.com/shared/BFG2S94WR?:display_count=n&:origin=viz_share_link
+
+The dataset used in this project, "Superstore Sales," can be found on Kaggle: [Superstore Sales Dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
